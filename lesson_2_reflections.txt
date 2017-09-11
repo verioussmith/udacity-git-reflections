@@ -16,11 +16,19 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	
+	• I can use git status to check the status of the files in the staging area after I have made the changes.  I can then make a commit of the changes that appear in the staging area.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	
+	• Situations in which git branches would be helpful: Testing new feautures, Creating alternate versions of current software, experiementing with random code 
+	• Branches will allow me to modify or add to the code base without disrupting the entire project if the modifications don't work as expected
 
 How do the diagrams help you visualize the branch structure?
+	
+	• Diagrams help me to seee the entire history of commits on a branch structure, They help me to see which areas of a branch are accessible and what is avaialabel for me to checkout.
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
