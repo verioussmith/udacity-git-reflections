@@ -32,6 +32,8 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	
+	• The result of merging two branches to gether is that now I have the functionality of the coins branch now added within my master branch.  We represent it in the diagram as a branch to show how and where it is accessible.
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
