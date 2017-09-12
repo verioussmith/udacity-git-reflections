@@ -1,17 +1,19 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    Fill in your answer here
+    • When I am sharing code with a team
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    • This would prevent me from overiding any changes people on my team may have made.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    • Fork - Creating a copy of a public repository on github to your public github repository do you can make a modified version of the previous repository but keep the original link and give the original author credit.
+    • Clone - Creating an exact duplicate of a repositoy that does not sustain internal linking and will not give the original author credit publicly.  A clon can originate from a repository on your local mackine or from a repository found publicly on github.
+    • Branch - A branch is an internal link found on a single git repository that allows you to experiment with the code on the repository without breaking the code base.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
