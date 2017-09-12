@@ -23,7 +23,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    • I can fork repositories to collaborate or be added as a contributor to a repository and create branches.  It would be far easier for me to fork a repository and make pull requests than to be added as a contributor.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
