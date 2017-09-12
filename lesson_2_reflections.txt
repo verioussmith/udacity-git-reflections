@@ -35,8 +35,7 @@ the diagram the way we do?
 	
 	• The result of merging two branches to gether is that now I have the functionality of the coins branch now added within my master branch.  We represent it in the diagram as a branch to show how and where it is accessible.
 
-What are the pros and cons of Git's automatic merging vs. always doing merges
-manually?
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
 
 	• Git's automatic merging will attempt to intelligently merge two pieces of code into one.  The downside of the automatic merge is that git will sometimes see a conflict that needs to be manually resolved.
 
