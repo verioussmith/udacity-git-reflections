@@ -28,4 +28,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    • Seperate Branch - This carries the advantages of you being able to make changes to the project and test without having to affect the codebase.
+    • Master - This gives you the ability to  not have to later worry about merging the changes on the project but the downside is that you can affect changes made by others.
